@@ -8,3 +8,13 @@ C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.csproj.CoreCompileInputs.cac
 C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.exe
 C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.pdb
 C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.MainForm.resources
+C:\Users\nepom\Desktop\Project2\bin\Debug\ProgaShmoga.exe.config
+C:\Users\nepom\Desktop\Project2\bin\Debug\ProgaShmoga.exe
+C:\Users\nepom\Desktop\Project2\bin\Debug\ProgaShmoga.pdb
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.csprojAssemblyReference.cache
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.MainForm.resources
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.Properties.Resources.resources
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.csproj.GenerateResource.cache
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.csproj.CoreCompileInputs.cache
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.exe
+C:\Users\nepom\Desktop\Project2\obj\Debug\ProgaShmoga.pdb
