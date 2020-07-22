@@ -1,0 +1,10 @@
+C:\programming\C#\ProgaShmoga\bin\Debug\ProgaShmoga.exe.config
+C:\programming\C#\ProgaShmoga\bin\Debug\ProgaShmoga.exe
+C:\programming\C#\ProgaShmoga\bin\Debug\ProgaShmoga.pdb
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.csprojAssemblyReference.cache
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.Properties.Resources.resources
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.csproj.GenerateResource.cache
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.csproj.CoreCompileInputs.cache
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.exe
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.pdb
+C:\programming\C#\ProgaShmoga\obj\Debug\ProgaShmoga.MainForm.resources
